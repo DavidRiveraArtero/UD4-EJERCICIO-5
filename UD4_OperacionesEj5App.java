@@ -1,4 +1,6 @@
+//OPERACIONES SIMPLES 
 
+//DAVID RIVERA ARTERO
 public class UD4_OperacionesEj5App {
 
 	public static void main(String[] args) {
